@@ -1,10 +1,10 @@
-## College Basketball Most Dominant Teams 2002 - 2017
+## Mini Project 10 - Databricks SQL Database
 
-[![CI](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mjh140_miniproject10/actions/workflows/cicd.yml)
 
 ### Summary:
 
-The objective of this project is to evaluate college basketball teams on their adjusted offense and adjusted defense scores extracted from the KenPOMS database.
+The objective of this project is to evaluate college basketball teams on their adjusted offense and adjusted defense using a Databricks SQL database.
 
 * `Adjusted Offense`: Points Scored per 100 Posessions
 * `Adjusted Defense`: Points Allowed per 100 Posessions
